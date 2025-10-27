@@ -1,5 +1,5 @@
 # Exercícios de Algoritmos do Gustavo Guanabara
-Todos os exercícios estão sendo desenvolvidos utilizando a versão **Java 21 (LTS)**, aproveitando seus recursos mais recentes e aprimoramentos de sintaxe.
+Toda a prática está sendo desenvolvida utilizando a versão **Java 21 (LTS)**, aproveitando seus recursos mais recentes e aprimoramentos de sintaxe.
 
 **Objetivos da Aprendizagem:**
 
