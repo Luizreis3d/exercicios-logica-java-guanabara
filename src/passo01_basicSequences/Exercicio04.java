@@ -1,6 +1,4 @@
-package passo01_sequenciasBasicas;
-
-import java.util.Scanner;
+package passo01_basicSequences;
 
 public class Exercicio04 {
     public static void main(String[] args) {

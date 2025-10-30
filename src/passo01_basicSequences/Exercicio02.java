@@ -1,4 +1,4 @@
-package passo01_sequenciasBasicas;
+package passo01_basicSequences;
 
 import java.util.Scanner;
 

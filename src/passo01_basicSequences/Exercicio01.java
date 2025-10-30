@@ -1,4 +1,4 @@
-package passo01_sequenciasBasicas;
+package passo01_basicSequences;
 
 public class Exercicio01 {
     public static void main(String[] args) {
